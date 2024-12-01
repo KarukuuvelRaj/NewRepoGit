@@ -1,2 +1,7 @@
 dockerfile
 README.md
+/target/
+
+.classpath
+.project
+.settings
