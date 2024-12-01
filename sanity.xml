@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Learner Hub">
-  <test name="Register">
+  <test name="Registerr">
     <classes>
       <class name="com.learnerhub.testcases.TC002_Register"/>
     </classes>
